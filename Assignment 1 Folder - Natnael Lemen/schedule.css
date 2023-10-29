@@ -1,0 +1,28 @@
+#pfwlogo {
+    height: 45px;
+    width: 90px;
+}
+#tablecontent {
+    font-size: 80%;
+    border: 15px;
+    background-color: black;
+
+}
+#classtable {
+    background-color: beige;
+}
+#tablerow1 {
+    background-color: cornsilk;
+    color:black
+
+}
+
+#tablerow2 {
+    background-color: blanchedalmond;
+}
+body {
+    background-color: rgb(173, 147, 116);
+}
+#titleid {
+    color:maroon
+}

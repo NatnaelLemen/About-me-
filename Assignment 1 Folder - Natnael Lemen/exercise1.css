@@ -1,0 +1,32 @@
+#text1 {
+    color:maroon
+}
+
+body {
+    background-color: rgb(173, 147, 116);
+}
+#header {
+    text-align: center;
+}
+
+#header1{
+    color:blanchedalmond;
+}
+
+#header2 {
+    color: beige;
+
+}
+
+#header3 {
+    color:cornsilk;
+
+}
+
+#CS {
+    color:goldenrod;
+}
+
+#footer {
+    margin-top: 23.2%;
+}
